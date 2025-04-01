@@ -1,0 +1,15 @@
+Category,Y Value
+A,10
+B,20
+C,15
+A,12
+B,22
+C,18
+
+X Value,Y Value,Category
+1.0,5.2,SeriesA
+2.3,7.4,SeriesB
+3.1,6.5,SeriesA
+4.8,8.0,SeriesB
+5.5,9.1,SeriesA
+6.0,10.5,SeriesB
